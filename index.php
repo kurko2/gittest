@@ -6,6 +6,10 @@
     </head>
     <body>
         <?php
+        //alteraçãoo um
+        echo 'Alteração 1: primeiro comando php';
+
+        echo 'linha três';
 
         ?>
         V3.0asdfga
