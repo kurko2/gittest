@@ -6,7 +6,10 @@
     </head>
     <body>
         <?php
-        echo 'Agora é: ' . date('H\hi')
+        echo 'Agora é: ' . date('H\hi');
+
+
         ?>
+        V2.0
     </body>
 </html>
