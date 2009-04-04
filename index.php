@@ -6,7 +6,8 @@
     </head>
     <body>
         <?php
-        echo 'Agora Ã©: ' . date('H\hi');
+        // segunda linha
+	echo 'Segunda linha: Esta é a segunda alteração. Teste de Merge.';
 
 
         ?>
