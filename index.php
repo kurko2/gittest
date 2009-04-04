@@ -6,7 +6,8 @@
     </head>
     <body>
         <?php
-        echo 'Agora é: ' . date('H\hi');
+        //alteração um
+        echo 'Alteração 1: primeiro comando php';
 
 
         ?>
