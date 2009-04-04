@@ -6,9 +6,6 @@
     </head>
     <body>
         <?php
-        // segunda linha
-	echo 'Segunda linha: Esta é a segunda alteração. Teste de Merge.';
-
 
         ?>
         V3.0asdfga
